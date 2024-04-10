@@ -55,9 +55,10 @@ body {
     position: absolute;
     z-index: 1;
     cursor: pointer;
-    top: 415px;
-    left: 182px;
+    top: 182px;
+    left: 2px;
     width: 58px;
+    opacity: 0;
 }
 
 .main__element--three img{
